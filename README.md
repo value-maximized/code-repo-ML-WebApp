@@ -1,7 +1,7 @@
 # code repo of projects by Varunraj Jayaraman
 
 - [📁 chartVisualizations](chartVisualizations/) - python code for chart types
-- [📁 ML Projects](MLProjects/) - python code for ML Projects listed below
+- [📁 ML Projects](ML-projects/) - python code for ML Projects listed below
 
 # ## 🚀 Machine Learning Projects Roadmap
 
