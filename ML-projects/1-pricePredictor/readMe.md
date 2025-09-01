@@ -1,10 +1,9 @@
 Steps:
 1. Importing Libraries & Datasets
 2. Preprocess Dataset
-3. Split Dataset into Training & Testing
+3. Split Dataset
 4. Train Model
 5. Evaluate Models
 6. Inference by users
 
-
-![System Design - Price Prediction](https://github.com/user-attachments/assets/80c1cbe6-ea79-4a6c-b862-f5258ba2d212)
+![System Design - Price Prediction (1)](https://github.com/user-attachments/assets/fd4ec00e-630d-4db6-babb-8e3101ccc425)
