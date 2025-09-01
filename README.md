@@ -10,7 +10,7 @@ A curated list of **ML projects** ordered from **beginner → advanced**, with *
 
 ## 🟢 Completed Projects
 
-- [ ] **Predict Housing Prices**  
+- [x] **Predict Housing Prices**  
   - *Use Case:* Estimate house prices based on features  
   - *Dataset:* [California Housing](https://www.kaggle.com/datasets/camnugent/california-housing-prices)  
   - *Tools:* Scikit-learn, Pandas, Matplotlib  
